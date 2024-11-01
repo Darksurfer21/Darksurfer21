@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Darksurfer21
 - 👀 I’m interested in Hacking 
-- ♟️ Black hat ...
+- ♟️ Love Red Teaming ...
 
 <!---
 Darksurfer21/Darksurfer21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
